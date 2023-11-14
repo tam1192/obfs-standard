@@ -1,2 +1,3 @@
-# ObjectBasedFileSystem
+# obfs
 obfsは39circleが開発するファイルシステムである。　obfsは既存のシステムを使いながらユーザーやプログラムが効率よくファイル管理ができるという特徴を持つ。
+
