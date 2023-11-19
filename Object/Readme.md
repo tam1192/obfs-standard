@@ -1,5 +1,5 @@
 # Object
-- name: [Standard/String]()
+- name: [Standard/String](https://github.com/tam1192/obfs-standard/tree/main/Standard/String)
 - **LAYER: 1**
 - **EXTEND:**
 
